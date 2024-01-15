@@ -1,0 +1,16 @@
+C:\Users\Irishka\Desktop\deleting files md\Deleting files md\bin\Release\Deleting files md.exe.config
+C:\Users\Irishka\Desktop\deleting files md\Deleting files md\bin\Release\Deleting files md.exe
+C:\Users\Irishka\Desktop\deleting files md\Deleting files md\bin\Release\Deleting files md.pdb
+C:\Users\Irishka\Desktop\deleting files md\Deleting files md\obj\Release\Deleting files md.csproj.AssemblyReference.cache
+C:\Users\Irishka\Desktop\deleting files md\Deleting files md\obj\Release\Deleting_files_md.Properties.Resources.resources
+C:\Users\Irishka\Desktop\deleting files md\Deleting files md\obj\Release\Deleting files md.csproj.GenerateResource.cache
+C:\Users\Irishka\Desktop\deleting files md\Deleting files md\obj\Release\Deleting files md.csproj.CoreCompileInputs.cache
+C:\Users\Irishka\Desktop\deleting files md\Deleting files md\obj\Release\Deleting files md.exe
+C:\Users\Irishka\Desktop\deleting files md\Deleting files md\obj\Release\Deleting files md.pdb
+C:\Users\Irishka\Desktop\deleting files md\Deleting files md\bin\Release\ru-BY\Deleting files md.resources.dll
+C:\Users\Irishka\Desktop\deleting files md\Deleting files md\bin\Release\ru\Deleting files md.resources.dll
+C:\Users\Irishka\Desktop\deleting files md\Deleting files md\obj\Release\Deleting_files_md.Удалить.resources
+C:\Users\Irishka\Desktop\deleting files md\Deleting files md\obj\Release\Deleting_files_md.Удалить.ru-BY.resources
+C:\Users\Irishka\Desktop\deleting files md\Deleting files md\obj\Release\Deleting_files_md.Удалить.ru.resources
+C:\Users\Irishka\Desktop\deleting files md\Deleting files md\obj\Release\ru-BY\Deleting files md.resources.dll
+C:\Users\Irishka\Desktop\deleting files md\Deleting files md\obj\Release\ru\Deleting files md.resources.dll
